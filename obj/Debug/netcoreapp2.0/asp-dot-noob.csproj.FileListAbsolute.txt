@@ -1,0 +1,10 @@
+c:\Users\Administrator\asp-dot-noob\bin\Debug\netcoreapp2.0\asp-dot-noob.deps.json
+c:\Users\Administrator\asp-dot-noob\bin\Debug\netcoreapp2.0\asp-dot-noob.runtimeconfig.json
+c:\Users\Administrator\asp-dot-noob\bin\Debug\netcoreapp2.0\asp-dot-noob.runtimeconfig.dev.json
+c:\Users\Administrator\asp-dot-noob\bin\Debug\netcoreapp2.0\asp-dot-noob.dll
+c:\Users\Administrator\asp-dot-noob\bin\Debug\netcoreapp2.0\asp-dot-noob.pdb
+c:\Users\Administrator\asp-dot-noob\obj\Debug\netcoreapp2.0\asp-dot-noob.csproj.CoreCompileInputs.cache
+c:\Users\Administrator\asp-dot-noob\obj\Debug\netcoreapp2.0\asp-dot-noob.AssemblyInfoInputs.cache
+c:\Users\Administrator\asp-dot-noob\obj\Debug\netcoreapp2.0\asp-dot-noob.AssemblyInfo.cs
+c:\Users\Administrator\asp-dot-noob\obj\Debug\netcoreapp2.0\asp-dot-noob.dll
+c:\Users\Administrator\asp-dot-noob\obj\Debug\netcoreapp2.0\asp-dot-noob.pdb

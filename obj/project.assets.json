@@ -12539,11 +12539,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrator\\asp-dot-noob\\asp-dot-noob.csproj",
+      "projectUniqueName": "c:\\Users\\Administrator\\asp-dot-noob\\asp-dot-noob.csproj",
       "projectName": "asp-dot-noob",
-      "projectPath": "C:\\Users\\Administrator\\asp-dot-noob\\asp-dot-noob.csproj",
+      "projectPath": "c:\\Users\\Administrator\\asp-dot-noob\\asp-dot-noob.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrator\\asp-dot-noob\\obj\\",
+      "outputPath": "c:\\Users\\Administrator\\asp-dot-noob\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
