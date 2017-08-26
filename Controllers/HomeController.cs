@@ -7,8 +7,9 @@ namespace CharacterSheetApp.Controllers
   {
     public IActionResult Index()
     {
-      var name = "Big Edna";
-      return View("Index",name);
+      var model = new CharacterSheetApp.Models.Character();
+      model.Name = "Big Edna";
+      return View(model);
     }
   }
 }
